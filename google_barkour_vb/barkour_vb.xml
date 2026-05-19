@@ -1,4 +1,5 @@
 <mujoco model="barkour_vb">
+  <!-- Barkour vB: A quadruped robot developed by Google. -->
   <compiler angle="radian" autolimits="true"/>
 
   <default>
